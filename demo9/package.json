@@ -1,0 +1,13 @@
+{
+  "name": "webpack-demo09",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cross-env DEBUG=true webpack-dev-server",
+    "build": "cross-env DEBUG=false webpack"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "cross-env": "^5.2.0",
+    "webpack": "^4.26.0"
+  }
+}

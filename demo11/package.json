@@ -1,0 +1,12 @@
+{
+  "name": "webpack-demo11",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "bundle-loader": "^0.5.6"
+  }
+}

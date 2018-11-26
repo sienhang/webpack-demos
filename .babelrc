@@ -1,0 +1,20 @@
+{
+//  "presets": [
+//    "env",
+//    "react", // babel-preset-react：react转码包
+//    "es2015", // babel-preset-es2015：ES6转码包
+//    "stage-2" // babel-preset-stage-2：ES7不同阶段语法提案的转码包
+//  ],
+//  "plugins": ["transform-decorators-legacy"],
+//  "env": {
+//    "development": {
+//      "presets": [
+//        "react-hmre"
+//      ],
+//      "plugins": [
+//        "react-hot-loader/babel",
+//        "transform-runtime"
+//      ]
+//    }
+//  }
+}

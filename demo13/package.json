@@ -1,0 +1,15 @@
+{
+  "name": "webpack-demo13",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "webpack-dev-server",
+    "build": "webpack"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "jquery": "^3.3.1",
+    "webpack": "^4.26.0",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
